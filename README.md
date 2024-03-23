@@ -10,3 +10,11 @@
 - ITQ zone:同样的，另一种划分方法
   ![](picture/3.jpg)
   ![](picture/cq.webp)
+- TO RADIO：对方呼号
+- DATE：日期
+- TIME: 时间
+  UTC:标准世界时  <https://time.is/zh/UTC>
+  BJT：北京时间   <https://time.is/zh/Beijing>
+- MHZ(freq):频率
+- MODE:工作模式（分为FM、USB、CW，UV段一般填FM）
+- 
