@@ -6,6 +6,5 @@
 - CQ zone:官方划分的区域，见下图
   ![](picture/1.jpg)
   ![](picture/2.jpg)
- 
 - ITQ zone:
   ![](picture/3.jpg)
