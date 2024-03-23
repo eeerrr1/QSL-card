@@ -13,7 +13,7 @@
 - TO RADIO：对方呼号
 - DATE：日期
 - TIME: 时间
-  UTC:标准世界时  <https://time.is/zh/UTC>
+  UTC:标准世界时  <https://time.is/zh/UTC> <br />
   BJT：北京时间   <https://time.is/zh/Beijing>
 - MHZ(freq):频率
 - MODE:工作模式（分为FM、USB、CW，UV段一般填FM）
