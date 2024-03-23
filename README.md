@@ -17,4 +17,10 @@
   BJT：北京时间   <https://time.is/zh/Beijing>
 - MHZ(freq):频率
 - MODE:工作模式（分为FM、USB、CW，UV段一般填FM）
-- 
+- RST：对方的信号报告 （例如：CW--599 SSTV--595 FM/SSB--59）
+- RIG：所用设备（电台型号）
+- WATTS:电台功率
+- ANT：天线
+- PSE：主动寄出卡片时勾选此项
+- QTH：地址（自己的地址）
+- OP：OP：自己的姓名
