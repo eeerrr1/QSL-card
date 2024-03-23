@@ -4,7 +4,7 @@
 请使用word编辑你自己的呼号
 ### 填写说明—
 - CQ zone:官方划分的区域，见下图
-  ![]picture/1.jpg
-  ![]picture/2.jpg
-  ![]picture/3.jpg
+  ![](picture/1.jpg)
+  ![](picture/2.jpg)
+  ![](picture/3.jpg)
 - ITQ zone:
